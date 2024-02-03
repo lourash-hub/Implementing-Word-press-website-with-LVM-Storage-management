@@ -526,6 +526,9 @@ sudo mv /etc/httpd/conf.d/welcome.conf /etc/httpd/conf.d/welcome.conf_backup
 5.	Try to access from your browser the link to your WordPress
 
 ![Wordpress](./Image/Wordpress.png)
-![Wordpress](./Image/Wordpress_1.png)
-![Wordpress](./Image/Wordpress_2.png)
-![Wordpress](./Image/Wordpress_3.png)
+
+![Wordpress](./Image/wordpress_1.png)
+
+![Wordpress](./Image/wordpress_2.png)
+
+![Wordpress](./Image/wordpress_3.png)
